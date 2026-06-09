@@ -1,7 +1,7 @@
 # llmstxtscan.org
 
-Public information site for the **llms.txt crawler bot** — a non-commercial
-research crawler that checks websites for a small set of standard, publicly
+Public information site for the **llms.txt crawler bot** — a research
+crawler that checks websites for a small set of standard, publicly
 served "well-known" files. This site explains what the crawler does and lets any
 operator identify it and opt out.
 

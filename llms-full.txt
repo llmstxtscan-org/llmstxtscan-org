@@ -1,6 +1,6 @@
 # llmstxtscan.org — full information
 
-> Public information about the "llms.txt crawler bot", a non-commercial research
+> Public information about the "llms.txt crawler bot", a research
 > crawler operated in association with the Cloud Security Alliance. This file is
 > the full-text companion to https://llmstxtscan.org/llms.txt.
 
@@ -41,7 +41,6 @@ and we will remove them from future scans.
 `llms.txt` and related files are an emerging convention for making websites more
 usable by AI systems. This project studies how widely they have been adopted,
 their quality, and how they co-occur with security files such as `security.txt`.
-The research is non-commercial.
 
 ## Contact
 

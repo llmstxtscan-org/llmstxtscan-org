@@ -5,7 +5,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## What this is
 
 The public, static information site for **llmstxtscan.org** — a transparency
-page for the "llms.txt crawler bot," a non-commercial research crawler that
+page for the "llms.txt crawler bot," a research crawler that
 checks websites for standard well-known files. The site's job: let any site
 operator identify the crawler from its User-Agent and request exclusion. It is a
 compliance/transparency artifact, so accuracy matters more than features.
