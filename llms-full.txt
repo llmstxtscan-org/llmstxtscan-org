@@ -21,12 +21,9 @@ Not every run requests all of these; many runs request only `/llms.txt`. A site
 is visited only occasionally, and requests to a given site are spread out over
 time to keep the load negligible.
 
-## What the crawler does not do
-
-- It does not scrape or store page content, or crawl a site by following links.
-- It does not attempt to access non-public resources.
-- It does not bypass logins, paywalls, CAPTCHAs, or any access control.
-- It does not submit forms or perform any write/POST actions.
+The crawler accesses only publicly available resources — it does not attempt to
+reach anything behind a login, paywall, or other access control, and it performs
+no write actions.
 
 ## How to identify it
 
