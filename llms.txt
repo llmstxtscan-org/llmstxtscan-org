@@ -11,7 +11,7 @@
 
 ## The crawler
 
-- User-Agent: `llms.txt crawler bot (+mailto:opt-out@llmstxtscan.org)`
+- User-Agent: `llms.txt crawler bot (+https://llmstxtscan.org; opt-out@llmstxtscan.org)`
 - It requests only publicly-served well-known files, a small number of times, and does not scrape content, follow links, or bypass access controls.
 
 ## Contact

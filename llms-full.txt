@@ -29,7 +29,7 @@ no write actions.
 
 All requests carry the User-Agent:
 
-    llms.txt crawler bot (+mailto:opt-out@llmstxtscan.org)
+    llms.txt crawler bot (+https://llmstxtscan.org; opt-out@llmstxtscan.org)
 
 ## How to opt out
 

@@ -32,7 +32,7 @@ with e.g. `curl -sI https://llmstxtscan.org/.well-known/security.txt`.
 
 ## Editing rules (keep it accurate)
 
-- The crawler User-Agent is `llms.txt crawler bot (+mailto:opt-out@llmstxtscan.org)`.
+- The crawler User-Agent is `llms.txt crawler bot (+https://llmstxtscan.org; opt-out@llmstxtscan.org)`.
   Keep this string **identical** across `index.html`, `llms.txt`, and `llms-full.txt`.
 - State the behavioral boundary **positively**: the crawler "accesses only
   publicly available resources, bypasses no access controls, and performs no

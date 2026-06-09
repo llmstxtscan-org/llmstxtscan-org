@@ -9,7 +9,7 @@ operator identify it and opt out.
 
 ## The crawler
 
-- **User-Agent:** `llms.txt crawler bot (+mailto:opt-out@llmstxtscan.org)`
+- **User-Agent:** `llms.txt crawler bot (+https://llmstxtscan.org; opt-out@llmstxtscan.org)`
 - **Opt-out:** [opt-out@llmstxtscan.org](mailto:opt-out@llmstxtscan.org) — send the domain(s) to exclude
 - **Contact:** [contact@llmstxtscan.org](mailto:contact@llmstxtscan.org)
 - It accesses **only publicly available resources**; it bypasses no access
