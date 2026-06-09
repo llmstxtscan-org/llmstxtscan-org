@@ -1,0 +1,52 @@
+# llmstxtscan.org — full information
+
+> Public information about the "llms.txt crawler bot", a non-commercial research
+> crawler operated in association with the Cloud Security Alliance. This file is
+> the full-text companion to https://llmstxtscan.org/llms.txt.
+
+## What the crawler does
+
+The crawler measures the adoption of AI-readiness and security-related
+"well-known" files across the public web. For each website it makes a small
+number of HTTP(S) requests for these standard files, which are intended to be
+publicly fetched:
+
+- `/llms.txt`
+- `/llms-full.txt`
+- `/AGENTS.md`
+- `/.well-known/security.txt`
+- `/robots.txt`
+
+Not every run requests all of these; many runs request only `/llms.txt`. A site
+is visited only occasionally, and requests to a given site are spread out over
+time to keep the load negligible.
+
+## What the crawler does not do
+
+- It does not scrape or store page content, or crawl a site by following links.
+- It does not attempt to access non-public resources.
+- It does not bypass logins, paywalls, CAPTCHAs, or any access control.
+- It does not submit forms or perform any write/POST actions.
+
+## How to identify it
+
+All requests carry the User-Agent:
+
+    llms.txt crawler bot (+mailto:opt-out@llmstxtscan.org)
+
+## How to opt out
+
+Email opt-out@llmstxtscan.org with the domain name(s) you would like excluded,
+and we will remove them from future scans.
+
+## Why this research
+
+`llms.txt` and related files are an emerging convention for making websites more
+usable by AI systems. This project studies how widely they have been adopted,
+their quality, and how they co-occur with security files such as `security.txt`.
+The research is non-commercial.
+
+## Contact
+
+- Opt-out requests: opt-out@llmstxtscan.org
+- General enquiries: contact@llmstxtscan.org

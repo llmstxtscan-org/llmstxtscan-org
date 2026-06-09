@@ -1,0 +1,8 @@
+# robots.txt for llmstxtscan.org
+# This is a public information site about the "llms.txt crawler bot".
+# Crawling is welcome.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://llmstxtscan.org/sitemap.xml

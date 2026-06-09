@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://llmstxtscan.org/</loc></url>
+  <url><loc>https://llmstxtscan.org/llms.txt</loc></url>
+  <url><loc>https://llmstxtscan.org/llms-full.txt</loc></url>
+  <url><loc>https://llmstxtscan.org/AGENTS.md</loc></url>
+  <url><loc>https://llmstxtscan.org/.well-known/security.txt</loc></url>
+</urlset>

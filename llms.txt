@@ -1,0 +1,21 @@
+# llmstxtscan.org
+
+> Public information about the "llms.txt crawler bot" — a non-commercial research
+> crawler that checks websites for a small set of standard, publicly-served
+> "well-known" files (llms.txt, llms-full.txt, AGENTS.md, security.txt, robots.txt)
+> to study their adoption across the web.
+
+## About
+
+- [Crawler information page](https://llmstxtscan.org/): what the crawler does, the files it requests, what it does not do, and how to opt out.
+
+## The crawler
+
+- User-Agent: `llms.txt crawler bot (+mailto:opt-out@llmstxtscan.org)`
+- It requests only publicly-served well-known files, a small number of times, and does not scrape content, follow links, or bypass access controls.
+
+## Contact
+
+- Opt-out requests: opt-out@llmstxtscan.org
+- General enquiries: contact@llmstxtscan.org
+- Security: [security.txt](https://llmstxtscan.org/.well-known/security.txt)
